@@ -10,25 +10,19 @@
 
 [![GitHub Activity](https://img.shields.io/badge/github--activity-8;53;Main%20Languages-blue)](https://github.com/njdinakaran)
 
-## Projects
-
+## 🚀 Projects
 Take a look at some of my highlighted projects:
 
-1. SpendSmart:
+**💰 SpendSmart** \
+A Java-based expense tracker designed to help users manage finances efficiently! 💸 With insightful spending analytics and smart budget suggestions, SpendSmart empowers users to take control of their financial planning. 🔍📊
 
-   
-   SpendSmart is a Java-based project aimed at helping individuals manage their finances effectively. By providing insights into spending patterns and suggesting budget allocation, SpendSmart equips users with the tools they need to improve their financial planning. Check out the repository [here](https://github.com/njdinakaran/SpendSmart) for more information.
+**🌾 CropSmart** \
+An AI-powered farming assistant integrating Deep Learning 🤖 to enhance agricultural productivity. Using JavaScript, Python, CSS, and HTML, CropSmart provides real-time crop recommendations and pest control strategies, optimizing farming efficiency. 🚜🌱
 
-2. CROPSMART:
-   
-   CROPSMART is an AI-based project that harnesses the power of JavaScript, Python, CSS, and HTML to enhance farming efficiency. Using computer vision techniques, CROPSMART analyzes crop images and provides real-time recommendations to optimize irrigation and pest control. Browse through the repository [here](https://github.com/njdinakaran/CROPSMART) to gain further insights.
+**🌐 Web Development Projects** \
+I've worked on multiple full-stack web projects, building interactive front-end experiences with HTML, CSS, JavaScript and robust back-end solutions. 🖥️💡 These projects showcase my skills in UI/UX, APIs, and databases.
 
-
-3. Web Development Projects:
-   
-   I have contributed to various web development projects, where I have honed my skills in HTML, CSS, and JavaScript. These projects encompass both front-end and back-end development, showcasing my full-stack capabilities. Explore some of these projects by visiting my repositories.
-
-For more information on these projects and to explore the rest of my public repositories, visit my GitHub profile [here](https://github.com/njdinakaran). Let's connect and collaborate!
+For more cool projects and collaborations, visit my GitHub profile! Let's connect, code, and innovate together! 🚀🔥
 
 ## GitHub Stats
 
